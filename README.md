@@ -7,7 +7,7 @@
 - Linguagens de marcação: HTML, CSS
 - IDE: Visual Studio Code
 - Versionamento de código: Git, GitHub
-- Design: Figma
+- Design de interface: Figma
 
 ## Atualmente estudando
 - Desenvolvimento Android
