@@ -9,8 +9,9 @@
 - Versionamento de código: Git, GitHub
 - Design: Figma
 
-## Atualmente estudando: Desenvolvimento Android
-- Linguagens de programação: Kotlin
+## Atualmente estudando
+- Desenvolvimento Android
+- Linguagem de programação: Kotlin
 - Linguagem de marcação: XML
 - IDE: Android Studio
 
