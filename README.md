@@ -18,9 +18,9 @@
 ## Onde me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/tassiana-benamor/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&color=blueviolet" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&color=5e5e5e" alt="linkedin"/>
   </a>
   <a href="https://www.behance.net/tassianabenamor" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=flat&logo=behance&color=blueviolet" alt="behance"/>
+    <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=flat&logo=behance&color=5e5e5e" alt="behance"/>
   </a>
 </p>
