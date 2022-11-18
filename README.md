@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> eu sou a Tassi!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tassianabenamor&color=blueviolet" alt="Profile views" /> </p>
 
-- Análise e Desenvolvimento de Sistemas, Instituto Infnet.
+- Análise e Desenvolvimento de Sistemas, Instituto Infnet
 - Linguagens de programação: JavaScript, Python
 - Linguagens de marcação: HTML, CSS
 - IDE: Visual Studio Code
