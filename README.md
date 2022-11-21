@@ -20,17 +20,15 @@
   <a href="https://www.linkedin.com/in/tassiana-benamor/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&color=5e5e5e" alt="linkedin"/>
   </a>
-  <a href="https://www.behance.net/tassianabenamor" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=flat&logo=behance&color=5e5e5e" alt="behance"/>
-  </a>
-  <!--
-  <a href="mailto:tassiana.benamor@al.infnet.edu.br" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail&color=5e5e5e" alt="gmail"/>
-  </a>
-  -->
-  <!--
   <a href="https://medium.com/@tassibenamor" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Medium-05122A?style=flat&logo=medium&color=5e5e5e" alt="medium"/>
   </a>
-  -->
+  <a href="https://www.behance.net/tassianabenamor" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=flat&logo=behance&color=5e5e5e" alt="behance"/>
+  </a>
+  
+  <a href="mailto:tassiana.benamor@al.infnet.edu.br" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?&color=5e5e5e" alt="gmail"/>
+  </a>
+  
 </p>
