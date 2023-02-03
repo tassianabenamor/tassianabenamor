@@ -7,7 +7,7 @@
 - IDE: Visual Studio Code, Android Studio
 - Design de interface: Figma
 
-<h2>Análise e Desenvolvimento de Sistemas, Instituto Infnet</h2>
+<h2>Análise e Desenvolvimento de Sistemas, INFNET</h2>
 
 - Atualmente estudando: Processamento de Dados
 - Linguagem de programação: Python e SQL
