@@ -10,7 +10,7 @@
 <h2>Análise e Desenvolvimento de Sistemas, INFNET</h2>
 
 - `Atualmente estudando`: Processamento de Dados
-- `Linguagend`: Python e SQL
+- `Linguagens`: Python e SQL
 - `IDE`: Replit
 
 <h2>Onde me encontrar</h2>
