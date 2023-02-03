@@ -2,20 +2,18 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> eu sou a Tassi!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tassianabenamor&color=blueviolet" alt="Profile views" /> </p>
 
-- Análise e Desenvolvimento de Sistemas, Instituto Infnet
-- Linguagens de programação: JavaScript, Python
-- Linguagens de marcação: HTML, CSS
-- IDE: Visual Studio Code
-- Versionamento de código: Git, GitHub
+- Linguagens: JavaScript, Python, HTML, CSS, SQL, Kotlin, XML
+- Versionamento de código: Git, GitHub, Azure DevOps
+- IDE: Visual Studio Code, Android Studio
 - Design de interface: Figma
 
-## Atualmente estudando
-- Desenvolvimento Android
-- Linguagem de programação: Kotlin
-- Linguagem de marcação: XML
-- IDE: Android Studio
+<h2>Análise e Desenvolvimento de Sistemas, Instituto Infnet</h2>
 
-## Onde me encontrar
+- Atualmente estudando: Processamento de Dados
+- Linguagem de programação: Python e SQL
+- IDE: Replit
+
+<h2>Onde me encontrar</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/tassiana-benamor/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&color=5e5e5e" alt="linkedin"/>
