@@ -5,7 +5,7 @@
 - `Linguagens`: JavaScript, Python, HTML, CSS, SQL, Kotlin, XML
 - `Versionamento de código`: Git, GitHub, Azure DevOps
 - `IDE`: Visual Studio Code, Android Studio
-- `Design de interface`: Figma
+- `UI`: Figma
 
 <h2>Análise e Desenvolvimento de Sistemas, INFNET</h2>
 
