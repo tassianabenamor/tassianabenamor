@@ -11,7 +11,7 @@
 
 - `Atualmente estudando`: Processamento de Dados
 - `Linguagens`: Python e SQL
-- `Outras ferramentas`: Looker Studio e Replit
+- `Ferramentas`: Looker Studio e Replit
 
 <h2>Onde me encontrar</h2>
 <p align="left">
