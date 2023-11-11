@@ -9,9 +9,9 @@
 
 <h2>Análise e Desenvolvimento de Sistemas, INFNET</h2>
 
-- `Atualmente estudando`: Processamento de Dados
-- `Linguagens`: Python e SQL
-- `Ferramentas`: Looker Studio e Replit
+- `Atualmente estudando`: Desenvolvimento Back-end
+- `Linguagens`: C# e Java
+- `Ferramentas`: Visual Studio e IntelliJ
 
 <h2>Onde me encontrar</h2>
 <p align="left">
