@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/tassianabenamor/a749391b655f9ddbedd57d28be48abef/raw/f9f05ce5e6a44b2cc67be862d111dc93b2b4ef9f/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/tassianabenamor/36fc222e47cab186d27ef0454ec810ee/raw/443ce5a52ea14a19c32a728acdf8915b691f6885/githubcardtassi.svg"/>
 <h1 align="left">Olá 👋 eu sou a Tassi!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tassianabenamor&color=blueviolet" alt="Profile views" /> </p>
 
