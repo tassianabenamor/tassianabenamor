@@ -35,7 +35,7 @@ Linguagens & Tecnologias: `C#`, `React`, `Typescript`. \
 <br/>
 <br/>
 
-<!-- Formação acadêmica -->
+<!-- Outras experiências -->
 <h2>Formação acadêmica</h2>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEdqM4TrIxw_g/company-logo_200_200/0/1631361135154?e=1707955200&v=beta&t=sXqtdax7fQJx2VAvkahpLy30y9fOkAtfzRLe_vKbycs"/>]([https://www.linkedin.com/company/radix-brasil/mycompany/verification/](https://www.linkedin.com/school/instituto-infnet/))
