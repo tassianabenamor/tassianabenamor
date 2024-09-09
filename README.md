@@ -6,6 +6,7 @@
 
 <!-- Profile views e redes sociais -->
 <p align="left">
+  
   <a href="[https://www.linkedin.com/in/tassiana-benamor/](https://komarev.com/ghpvc/?username=tassianabenamor&color=blueviolet)" target="_blank">
     <img align="center" src="https://komarev.com/ghpvc/?username=tassianabenamor&color=blueviolet" alt="Profile views"/>
   </a>
@@ -26,8 +27,6 @@
 <!-- Experiencia de trabalho -->
 <h2>Experiência de trabalho</h2>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQGf83BBbYnPTg/company-logo_200_200/0/1656686595482/radix_engenharia_e_software_logo?e=1707955200&v=beta&t=BIRn3cDaNntsrfxbmxJaliKSNonRZBdNEAVa3f2HHww"/>](https://www.linkedin.com/company/radix-brasil/mycompany/verification/)
-
 **Desenvolvedora de Software** \
 [**Radix**](https://www.linkedin.com/company/radix-brasil/mycompany/verification/) • Estágio \
 Linguagens & Tecnologias: `C#`, `React`, `Typescript`. \
@@ -37,8 +36,6 @@ Linguagens & Tecnologias: `C#`, `React`, `Typescript`. \
 
 <!-- Outras experiências -->
 <h2>Formação acadêmica</h2>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEdqM4TrIxw_g/company-logo_200_200/0/1631361135154?e=1707955200&v=beta&t=sXqtdax7fQJx2VAvkahpLy30y9fOkAtfzRLe_vKbycs"/>]([https://www.linkedin.com/company/radix-brasil/mycompany/verification/](https://www.linkedin.com/school/instituto-infnet/))
 
 **Análise e Desenvolvimento de Sistemas** \
 [**Infnet**](https://www.linkedin.com/school/instituto-infnet/) • Cursando \
