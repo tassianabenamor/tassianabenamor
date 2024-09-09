@@ -40,7 +40,7 @@ Linguagens & Tecnologias: `C#`, `React`, `Typescript`. \
 **Análise e Desenvolvimento de Sistemas** \
 [**Infnet**](https://www.linkedin.com/school/instituto-infnet/) • Cursando \
 Grade curricular: `Android`, `Front-end`, `Back-end` e `Dados`. \
-2021 - 2024 
+2021 - 2023
 <br/>
 <br/>
 
